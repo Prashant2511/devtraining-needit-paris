@@ -1,0 +1,3 @@
+https://docs.microsoft.com/en-us/learn/paths/automate-process-power-automate/
+https://docs.microsoft.com/en-us/sharepoint/dev/business-apps/power-automate/guidance/migrate-from-classic-workflows-to-power-automate-flows
+https://genmills.sharepoint.com/sites/2010WFs/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={c3b2781b-3393-482e-9f73-6a2e06edfc96}
